@@ -12,6 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
+        <!-- This is a table -->
         <form name="register" action="register.jsp" method="POST">
             <table border="0">
                 <tbody>
