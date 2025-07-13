@@ -1,12 +1,15 @@
-
+<%-- 
+    Document   : Register
+    Created on : Jul 13, 2025, 10:55:01 AM
+    Author     : Cash
+--%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Register Page</title>
-        <link rel="stylesheet" type="text/css" href="Css/registerCss">
+        <title>JSP Page</title>
     </head>
     <body>
         <form name="register" action="register.jsp" method="POST">
